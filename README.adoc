@@ -150,7 +150,7 @@ image::https://user-images.githubusercontent.com/63274055/154480694-d537f47b-07c
 
 == Create a Dashboard with all the Sheets created until now.
 
-{tab}[Tableau Public: Lab Lesson 4.08 Dashboard]
+{tab5}[Tableau Public: Lab Lesson 4.08 Dashboard]
 
 image::https://user-images.githubusercontent.com/63274055/154495215-464e482b-a1a9-4036-bdf3-43038ec9a1fc.png[width=600]
 
