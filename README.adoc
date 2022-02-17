@@ -7,6 +7,7 @@
 //:fn-xxx: Add the explanation foot note here bla bla
 :tab3: https://public.tableau.com/views/unit-4-lab_3/Sheet3?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
 :tab4: https://public.tableau.com/views/unit-4-lab_4/Sheet4?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
+:tab5: https://public.tableau.com/views/unit-4-lab_5/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
 :toc:
 :toc-title: For this lab, you will be using the output of the previous lab - the unit-4-lab.tbwx.
 :toc-placement!:
@@ -104,11 +105,6 @@ image::https://user-images.githubusercontent.com/63274055/154469277-d2a72149-940
 == Create a cross table with Marital status and Gender.
 
 
-
-
-
-
-
 Press and hold `Ctr` then select the `Gender`, `Marital Status` and `Customers(Count(Distinct))` fields,
 
 image::https://user-images.githubusercontent.com/63274055/154471859-82a50c42-b160-42e5-9d4f-e7ddb6c85640.png[width=800]
@@ -152,31 +148,15 @@ image::https://user-images.githubusercontent.com/63274055/154480694-d537f47b-07c
 
 
 
-
-
-
-
-
 == Create a Dashboard with all the Sheets created until now.
 
+{tab}[Tableau Public: Lab Lesson 4.08 Dashboard]
 
-
-====
-''''
-====
-
+image::https://user-images.githubusercontent.com/63274055/154495215-464e482b-a1a9-4036-bdf3-43038ec9a1fc.png[width=600]
 
 ====
 ''''
 ====
-
-{script-url}[Solutions script only]
-
-====
-''''
-====
-
-
 
 
 xref:Lab-Dashboards-with-Tableau[Top Section]
