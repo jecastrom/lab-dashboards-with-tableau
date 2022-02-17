@@ -63,11 +63,15 @@ toc::[]
 
 = Instructions:
 
-1. Create a sheet with a barplot of the number of customers per **Gender**.
-2. Create a sheet with a barplot of the number of customers per **EmploymentStatus** and **Gender**.
-3. Create a sheet with a treeplot of the number of customers per **State**.
-4. Create a cross table with Marital status and Gender.
-5. Create a Dashboard with all the Sheets created until now.
+== Create a sheet with a barplot of the number of customers per **Gender**.
+
+== Create a sheet with a barplot of the number of customers per **EmploymentStatus** and **Gender**.
+
+== Create a sheet with a treeplot of the number of customers per **State**.
+
+== Create a cross table with Marital status and Gender.
+
+== Create a Dashboard with all the Sheets created until now.
 
 
 
