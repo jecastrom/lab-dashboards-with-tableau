@@ -89,6 +89,10 @@ image::https://user-images.githubusercontent.com/63274055/154450208-86a7ffc8-3ad
 ''''
 ====
 
+To create the treemap, press and hold `Ctr`, select the `customer(count(distinct))` and `State` field, then click on `TreeMap`
+
+image::https://user-images.githubusercontent.com/63274055/154468297-651a81c2-56f6-46cf-94fd-a45f69514357.png[width=400]
+
 == Create a cross table with Marital status and Gender.
 
 == Create a Dashboard with all the Sheets created until now.
