@@ -77,7 +77,7 @@ image::https://user-images.githubusercontent.com/63274055/154444640-7567f385-f96
 ''''
 ====
 
-To be able to work with the `customer` data as a `measure`, I duplicated the `customer field then I converted that field to `Measure`
+To be able to work with the `customer` data as a `measure`, I duplicated the `customer` field then I converted that field to `Measure`
 
 image::https://user-images.githubusercontent.com/63274055/154445514-ca27e14c-e937-4c75-93ca-560674124e86.png[width=400]
 
