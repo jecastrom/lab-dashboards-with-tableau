@@ -69,6 +69,10 @@ toc::[]
 
 == Create a sheet with a treeplot of the number of customers per **State**.
 
+To see which data elements we need to create any plot, on the top right hand side conner click on `Show me` and hover the mouse cursor over the type of plot we want. Then at the bottom we will see the elements we need.
+
+image::https://user-images.githubusercontent.com/63274055/154444640-7567f385-f965-4a71-bec6-0fec6225396e.png[width=300]
+
 == Create a cross table with Marital status and Gender.
 
 == Create a Dashboard with all the Sheets created until now.
