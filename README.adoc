@@ -81,7 +81,7 @@ To be able to work with the `customer` data as a `measure`, I duplicated the `cu
 
 image::https://user-images.githubusercontent.com/63274055/154445514-ca27e14c-e937-4c75-93ca-560674124e86.png[width=400]
 
-image::https://user-images.githubusercontent.com/63274055/154448240-3d0ce845-1fb2-4c62-bfe7-b908642b5bb2.png[width=300]
+image::https://user-images.githubusercontent.com/63274055/154448240-3d0ce845-1fb2-4c62-bfe7-b908642b5bb2.png[width=400]
 
 ====
 ''''
