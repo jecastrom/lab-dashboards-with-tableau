@@ -5,6 +5,7 @@
 :my-name: Jorge Castro DAPT NOV2021
 :description:
 //:fn-xxx: Add the explanation foot note here bla bla
+:tab3: https://public.tableau.com/views/unit-4-lab_3/Sheet3?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
 :toc:
 :toc-title: For this lab, you will be using the output of the previous lab - the unit-4-lab.tbwx.
 :toc-placement!:
@@ -94,6 +95,10 @@ To create the treemap, press and hold `Ctr`, select the `customer(count(distinct
 image::https://user-images.githubusercontent.com/63274055/154468297-651a81c2-56f6-46cf-94fd-a45f69514357.png[width=600]
 
 image::https://user-images.githubusercontent.com/63274055/154469277-d2a72149-9407-4c75-8b02-b3ddaa7392d4.png[width=600]
+
+
+{tab3}[Tableau Public: Treeplot of the number of customers per State]
+
 
 == Create a cross table with Marital status and Gender.
 
