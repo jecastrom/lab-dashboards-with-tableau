@@ -71,7 +71,7 @@ toc::[]
 
 To see which data elements we need to create any plot, on the top right hand side conner click on the `Show me` option and hover the mouse cursor over the type of plot we want. Then at the bottom we will see the elements we need.
 
-image::https://user-images.githubusercontent.com/63274055/154444640-7567f385-f965-4a71-bec6-0fec6225396e.png[width=300]
+image::https://user-images.githubusercontent.com/63274055/154444640-7567f385-f965-4a71-bec6-0fec6225396e.png[width=600]
 
 To be able to work with the `customer` data as a `measure`, I duplicated the `customer field then I converted that field as 
 
