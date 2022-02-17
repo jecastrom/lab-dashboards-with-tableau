@@ -70,11 +70,11 @@ toc::[]
 
 == Create a sheet with a barplot of the number of customers per **Gender**.
 
-{tab1}[Barplot of the number of customers per Gender]
+{tab1}[Tableau Public: Barplot of the number of customers per Gender]
 
 == Create a sheet with a barplot of the number of customers per **EmploymentStatus** and **Gender**.
 
-{tab2}[Barplot of the number of customers per EmploymentStatus and Gender]
+{tab2}[Tableau Public: Barplot of the number of customers per EmploymentStatus and Gender]
 
 == Create a sheet with a treeplot of the number of customers per **State**.
 
