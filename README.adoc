@@ -144,12 +144,14 @@ Then under `Mark` click on `Colour` => `Edit Colours`.Finally from the `Palette`
 
 image::https://user-images.githubusercontent.com/63274055/154480694-d537f47b-07c7-45a1-bd59-54129451dd73.png[width=800]
 
+{tab4}[Tableau Public: Cross table with Marital status and Gender]
+
 ====
 ''''
 ====
 
 
-{tab4}[Tableau Public: Cross table with Marital status and Gender]
+
 
 
 
