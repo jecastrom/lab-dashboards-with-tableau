@@ -109,6 +109,7 @@ image::https://user-images.githubusercontent.com/63274055/154469277-d2a72149-940
 
 
 Press and hold `Ctr` then select the `Gender`, `Marital Status` and `Customers(Count(Distinct))` fields,
+
 image::https://user-images.githubusercontent.com/63274055/154471859-82a50c42-b160-42e5-9d4f-e7ddb6c85640.png[width=800]
 
 ====
@@ -116,12 +117,14 @@ image::https://user-images.githubusercontent.com/63274055/154471859-82a50c42-b16
 ====
 
  then click on `Text Tables.`
+
 image::https://user-images.githubusercontent.com/63274055/154472344-80e81e91-a6f8-41b6-823d-4a3096428935.png[width=800]
 ====
 ''''
 ====
 
 To colour the table, select the `Customers(Count(Distinct))` field, drag it and drop it on the `Colour` section under `Marks`.
+
 image::https://user-images.githubusercontent.com/63274055/154476091-369db3a3-72ed-4d1b-8600-5b465b09c768.png[width=800]
 
 ====
@@ -129,6 +132,7 @@ image::https://user-images.githubusercontent.com/63274055/154476091-369db3a3-72e
 ====
 
 Next to fill the cells with colour, set the `Mark` from `Automatic` to `Square`.
+
 image::https://user-images.githubusercontent.com/63274055/154477743-0be2aa92-ff16-4925-90b0-a0e6d1e0826b.png[width=800]
 
 ====
@@ -136,6 +140,7 @@ image::https://user-images.githubusercontent.com/63274055/154477743-0be2aa92-ff1
 ====
 
 Then under `Mark` click on `Colour` => `Edit Colours`.Finally from the `Palette` scrolling menu select `Temperature Diverging`.
+
 image::https://user-images.githubusercontent.com/63274055/154480694-d537f47b-07c7-45a1-bd59-54129451dd73.png[width=800]
 
 ====
