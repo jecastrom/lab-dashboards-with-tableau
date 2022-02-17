@@ -73,7 +73,9 @@ To see which data elements we need to create any plot, on the top right hand sid
 
 image::https://user-images.githubusercontent.com/63274055/154444640-7567f385-f965-4a71-bec6-0fec6225396e.png[width=300]
 
-To be able to work with the `customer` data as a `measure`, I duplicated 
+To be able to work with the `customer` data as a `measure`, I duplicated the `customer field then I converted that field as 
+
+image::https://user-images.githubusercontent.com/63274055/154445514-ca27e14c-e937-4c75-93ca-560674124e86.png[width=200]
 == Create a cross table with Marital status and Gender.
 
 == Create a Dashboard with all the Sheets created until now.
