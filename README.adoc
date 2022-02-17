@@ -5,6 +5,8 @@
 :my-name: Jorge Castro DAPT NOV2021
 :description:
 //:fn-xxx: Add the explanation foot note here bla bla
+:tab1: https://public.tableau.com/views/unit-4-lab_1/Sheet1?:language=en-GB&:display_count=n&:origin=viz_share_link
+:tab2: https://public.tableau.com/views/unit-4-lab_2/Sheet2?:language=en-GB&:display_count=n&:origin=viz_share_link
 :tab3: https://public.tableau.com/views/unit-4-lab_3/Sheet3?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
 :tab4: https://public.tableau.com/views/unit-4-lab_4/Sheet4?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
 :tab5: https://public.tableau.com/views/unit-4-lab_5/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
@@ -68,7 +70,11 @@ toc::[]
 
 == Create a sheet with a barplot of the number of customers per **Gender**.
 
+{tab1}[Barplot of the number of customers per Gender]
+
 == Create a sheet with a barplot of the number of customers per **EmploymentStatus** and **Gender**.
+
+{tab2}[Barplot of the number of customers per EmploymentStatus and Gender]
 
 == Create a sheet with a treeplot of the number of customers per **State**.
 
